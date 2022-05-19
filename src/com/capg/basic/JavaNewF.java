@@ -10,6 +10,8 @@ public class JavaNewF {
 		Consumer<String> c=s->System.out.println(s);
 		c.accept("Hii");
 		c.accept("I am from Capgemini");
+	
+	System.out.println("My new code changes in the github");
 	}
 
 }
